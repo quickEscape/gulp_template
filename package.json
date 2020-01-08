@@ -50,7 +50,7 @@
     "gulp-wait": "0.0.2",
     "gulp.spritesmith-multi": "^3.1.0",
     "highlight.js": "^9.15.6",
-    "sass": "^1.23.7",
+    "sass": "^1.24.3",
     "shelljs": "^0.8.3",
     "vinyl-named": "^1.1.0",
     "webpack": "^4.41.2",
