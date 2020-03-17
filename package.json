@@ -32,7 +32,7 @@
     "babel-preset-env": "^1.7.0",
     "browser-sync": "^2.26.7",
     "css-mqpacker": "^7.0.0",
-    "del": "^4.1.1",
+    "del": "^5.1.0",
     "fibers": "^4.0.2",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
